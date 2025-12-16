@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi 👋, I'm Gokul
 
-<!--
-**gokul000410/gokul000410** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Passionate about **Python**, **Data Structures & Algorithms**, and **Open Source**  
+🎓 Bachelor of Computer Applications (BCA) student  
+💡 Interested in writing clean, readable, and maintainable code
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 What I’m Working On
+- Solving **Data Structures & Algorithms** problems
+- Contributing to **open-source Python projects**
+- Practicing **problem-solving** for software engineering interviews
+- Building small projects to strengthen fundamentals
+
+---
+
+## 🧰 Tech Stack
+- **Languages:** Python, JavaScript, Java
+- **Core CS:** Data Structures, Algorithms, OOP
+- **Web:** HTML, CSS, React (learning)
+- **Backend:** Django
+- **Databases:** SQL
+- **Tools:** Git, GitHub, Google Colab
+
+
+
