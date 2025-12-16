@@ -1,4 +1,4 @@
-# Hi 👋, I'm Gokul
+# Hi 👋, I'm Gokul Krishnan
 
 🚀 Passionate about **Python**, **Data Structures & Algorithms**, and **Open Source**  
 🎓 Bachelor of Computer Applications (BCA) student  
